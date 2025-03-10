@@ -1,5 +1,5 @@
 # Tugas Kelompok Pemograman Web Dasar
-# Nama Anggota Kelompok : Ratna Dwi Gita Stefani, Evelyn G, Aprilia Dara Fani
+# Nama Anggota Kelompok : Ratna Dwi Gita Stefani, Evelyn Gracesia, Aprilia Dara Fani
 # ___________________________________________________________________________
 # Frontend - HTML
 HTML singkatan dari HyperText Markup Language
